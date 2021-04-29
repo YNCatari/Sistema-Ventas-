@@ -1,0 +1,1005 @@
+C:\Users\YoferNain\Videos\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+C:\Users\YoferNain\Videos\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Videos\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Videos\SistemaButiPan\bin\Debug\MaterialSkin.dll
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCatalogo.resources
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+C:\Users\YoferNain\Videos\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\MaterialSkin.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCatalogo.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Pictures\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\MaterialSkin.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCatalogo.resources
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.Cache
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+F:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\MaterialSkin.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCatalogo.resources
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.Cache
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+E:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+G:\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+G:\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+G:\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+G:\Proyecto de Butipan\SistemaButiPan\bin\Debug\MaterialSkin.dll
+G:\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+G:\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\MaterialSkin.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Music\Proyecto de Butipan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\MaterialSkin.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\EnvDTE.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\stdole.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\MaterialSkin.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\EnvDTE.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\stdole.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Music\Proyecto de Butipan\Version Beta2\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\MaterialSkin.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\EnvDTE.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\stdole.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\EnvDTE80.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\VSLangProj.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\VSLangProj80.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Newtonsoft.Json.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.MSXML.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.Build.Framework.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\VSLangProj2.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.exe.config
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+D:\Descargas\Version Prueba2\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\MaterialSkin.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\EnvDTE.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\stdole.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\EnvDTE80.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\VSLangProj.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\VSLangProj80.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Newtonsoft.Json.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.MSXML.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.Build.Framework.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\VSLangProj2.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.exe.config
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+D:\Descargas\Version Prueba3\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\MaterialSkin.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\EnvDTE.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\stdole.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\EnvDTE80.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\VSLangProj.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\VSLangProj80.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Newtonsoft.Json.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.MSXML.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.Build.Framework.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\VSLangProj2.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.exe.config
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+D:\Descargas\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\MaterialSkin.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\EnvDTE.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\stdole.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmReportes.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+C:\Users\YoferNain\Downloads\Version Prueba4\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpresa.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\MaterialSkin.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\EnvDTE.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\stdole.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpresa.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+C:\Users\YoferNain\Downloads\proyecto\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmRBoleta.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\MaterialSkin.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\EnvDTE.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\stdole.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.csprojResolveAssemblyReference.cache
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpresa.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmRBoleta.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+C:\Users\YoferNain\Downloads\proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\SistemaButiPan.exe.config
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\SistemaButiPan.exe
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\SistemaButiPan.pdb
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\MaterialSkin.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\EnvDTE.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\stdole.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\Microsoft.MSXML.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.csprojAssemblyReference.cache
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmCargos.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmDetalles.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpresa.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Form1.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmBoletas.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmInventario.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmClientes.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmEmpleados.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPedidos.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmPrincipal.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProductos.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmProveedores.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Principal.FrmRBoleta.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.Properties.Resources.resources
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.GenerateResource.cache
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CoreCompileInputs.cache
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.csproj.CopyComplete
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.exe
+E:\Proyecto ButiPan\SistemaButiPan\obj\Debug\SistemaButiPan.pdb
